@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="portfolio">
+    <link rel="stylesheet" href="style.css">
+    <script src="javaScript.js" defer></script>
+   
+    
+    <!--Esto es el enlace de los iconos de las redes sociales-->
+    <script src="https://kit.fontawesome.com/629b299bcd.js" crossorigin="anonymous"></script>
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <!--La barra de navegación nos abre cada enlace en una hoja distinta-->
+    <header class="header">
+        <a href="#" class="portfolio"></a>
+        <nav class="barnav">
+            <a href="index.html">Home</a>
+            <a href="estudios.html">Estudios</a>
+            <a href="experiencialaboral.html">Experiencia Laboral</a>
+            <a href="otrosdatos.html">Otros datos</a>
+            <a href="contacto.html" class="active">Contacto</a>
+        </nav>
+    </header>
+    <!--En el párrafo se encuentran todos lo datos de contacto-->
+        <div class="contacto">
+            <p>
+                Nombre: María Jesús Gómez Bañuls <br>
+                Fecha de nacimiento: 04/01/1983 <br>
+                Dirección: C/ Sagrado Corazón, 14 <br>
+                Bigastro (Alicante-España)  <br>
+                Telefono: 620883287 <br>
+                Correo electrónico: keku1983@hotmail.com     
+            </p>
+        </div>
+
+
+    <!--el formulario está orientado para saber información sobre la empresa que desea contactarme-->
+    <form class="formulario" id="contactForm">
+            <h3><strong>Formulario</strong></h3>
+            <h6>Datos de la empresa que desea contactarme</h6><br>
+                Nombre de la empresa:<br>
+                <input type="text" name="nombre" id="nombre"><br>
+                Email:<br>
+                <input type="email" name="email" id="email"><br>
+                Teléfono:<br>
+                <input type="number" name="telefono" id="telefono"><br> 
+    
+    
+    <!--con la etiqueta select podemos crear un menú desplegable y elegir una opción-->
+    <label for="actividad">Elige una actividad</label>
+           <select id="actividad"="Tipo de actividad a desempeñar"size="3">
+                <option value="Actividad">--selecciona--</option>
+                <option value="desarrollodeaplicacionesweb">Desarrollo de aplicaciones Web</option>
+                <option value="administraciónyfinanzas">Administración y Finanzas</option>
+                <option value="ventas">Ventas</option>
+            </select><br><br>
+
+            <textarea name="observaciones" id="observaciones" cols="35" rows="5" placeholder="Observaciones"></textarea>
+
+    <!--estos inputs son para envíar el formulario y para restablecerlo-->
+                <input type="submit" name="Enviar" value="Enviar">
+                <input type="reset" name="Limpiar" value="Limpiar">
+    </form>
+
+    <!--Botones de las redes sociales que aparecen en la pestaña de contacto-->
+        <div class="redes-sociales">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div> 
+    </body>
+</html>
+

@@ -1,0 +1,42 @@
+{
+    "experiencias": [
+        {
+            "titulo": "Promotora de Ventas",
+            "empresa": "Property Trust, SL",
+            "sector": "Actividades Inmobiliarias",
+            "periodo": "Marzo 2002-Marzo 2003"
+        },
+        {
+            "titulo": "Promotora de Ventas",
+            "empresa": "Villas La Oca, SL",
+            "sector": "Actividades Inmobiliarias",
+            "periodo": "Diciembre 2003-Noviembre 2004"
+        },
+        {
+            "titulo": "Promotora de Ventas",
+            "empresa": "Oca Beach Promotores, SL",
+            "sector": "Actividades Inmobiliarias",
+            "periodo": "Marzo 2005-Marzo 2006"
+        },
+        {
+            "titulo": "Promotora de Ventas, Administración y atención al público",
+            "empresa": "Gestora de Empresas La Zenia, SL",
+            "sector": "Actividades Inmobiliarias",
+            "detalle": "Mando intermedio con 1-5 personas a cargo (reportando a consejo directivo).",
+            "periodo": "Agosto 2006-Abril 2013"
+        },
+        {
+            "titulo": "Administración y Ventas",
+            "empresa": "Embutidos el Foro, SL",
+            "sector": "Gran consumo y alimentación",
+            "detalle": "Consejo directivo con 6-10 personas a cargo.",
+            "periodo": "Julio 2014-Marzo 2021"
+        },
+        {
+            "titulo": "Ventas",
+            "empresa": "Tricolori Coleccioni, SL",
+            "sector": "Venta internacional de artículos de moda de primeras marcas",
+            "periodo": "Noviembre 2022-"
+        }
+    ]
+}

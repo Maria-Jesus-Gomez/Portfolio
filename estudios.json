@@ -1,0 +1,39 @@
+{
+    "estudios": [
+        {
+            "titulo": "CICLO FORMATIVO DE GRADO SUPERIOR",
+            "nombre": "Desarrollo de Aplicaciones Web",
+            "instituto": "IES El Campico (Jacarilla)",
+            "link": "https://www.elcampico.org/",
+            "periodo": "Septiembre 2023-"
+        },
+        {
+            "titulo": "CICLO FORMATIVO DE GRADO SUPERIOR",
+            "nombre": "Administracion y Finanzas",
+            "instituto": "IES Las Espeñetas (Orihuela)",
+            "link": "https://portal.edu.gva.es/03011070/",
+            "periodo": "Septiembre 2014-Junio 2016"
+        },
+        {
+            "titulo": "INGENIERIA TÉCNICA",
+            "nombre": "Ingenieria en Tecnologías Industriales",
+            "instituto": "UNED (Elche)",
+            "link": "https://portal.uned.es/portal/page?_pageid=93,71801923&_dad=portal&_schema=PORTAL",
+            "periodo": "Septiembre 2010-"
+        },
+        {
+            "titulo": "BACHILLERATO",
+            "nombre": "IES Gabriel Miró (Orihuela)",
+            "link": "https://portal.edu.gva.es/iesgabrielmiro/",
+            "periodo": "Septiembre 1997-Junio 2002"
+        }
+    ],
+    "idiomas": [
+        { "nombre": "Español", "nivel": "Nivel Nativo" },
+        { "nombre": "Francés", "nivel": "Nivel Intermedio" },
+        { "nombre": "Inglés", "nivel": "Nivel Básico" }
+    ],
+    "ofimatica": [
+        { "nombre": "Ofimatica", "nivel": "Nivel Intermedio" }
+    ]
+}
